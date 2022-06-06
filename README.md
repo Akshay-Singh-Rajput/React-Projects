@@ -6,7 +6,7 @@
 | 01  | [Expanding Cards](https://github.com/Akshay-Singh-Rajput/React-Projects/tree/main/Expanding%20Cards)                             | [Live Demo](https://react-expanding-cards.netlify.app/)               |
 | 02  | [Progress Steps](https://github.com/Akshay-Singh-Rajput/React-Projects/tree/main/Progress-Steps)                               | [Live Demo](https://react-progress-steps.netlify.app/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/Akshay-Singh-Rajput/React-Projects/tree/main/Rotating%20Navigation)                       | [Live Demo](https://react-rotating-navigation.netlify.app) |
-| 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
+| 04  | [Hidden Search Widget](https://github.com/Akshay-Singh-Rajput/React-Projects/tree/main/Hidden%20Search)                          | [Live Demo](https://react-hidden-search-widget.netlify.app/)          |
 | 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
 | 06  | [Scroll Animation](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
 | 07  | [Split Landing Page](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page)                       | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
